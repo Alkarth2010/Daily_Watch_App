@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Daily_Watch_App/static/css/main.348fbdac.css",
-    "main.js": "/Daily_Watch_App/static/js/main.14772321.js",
+    "main.js": "/Daily_Watch_App/static/js/main.ff1fe187.js",
     "static/js/453.db00259b.chunk.js": "/Daily_Watch_App/static/js/453.db00259b.chunk.js",
     "index.html": "/Daily_Watch_App/index.html",
     "main.348fbdac.css.map": "/Daily_Watch_App/static/css/main.348fbdac.css.map",
-    "main.14772321.js.map": "/Daily_Watch_App/static/js/main.14772321.js.map",
+    "main.ff1fe187.js.map": "/Daily_Watch_App/static/js/main.ff1fe187.js.map",
     "453.db00259b.chunk.js.map": "/Daily_Watch_App/static/js/453.db00259b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348fbdac.css",
-    "static/js/main.14772321.js"
+    "static/js/main.ff1fe187.js"
   ]
 }
